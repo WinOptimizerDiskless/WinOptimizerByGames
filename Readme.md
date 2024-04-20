@@ -42,6 +42,13 @@ Information on how to support the project development through donations.
 Confirmation of applied tweaks and a summary of optimized settings.
 
 *Note: The links to the images will need to be updated to reflect the actual path within your GitHub repository.*
+## Optimize Gaming Performance for Popular Titles
+
+Whether you're battling it out in the latest season of 'Valorant', defending the ancients in 'Dota 2', securing the last kill in 'PUBG', or executing a perfect strategy in 'CS: GO', Win Optimizer By Games helps ensure your system is fully tuned for the ultimate gaming performance. By optimizing system processes and cutting down unnecessary tasks, you can expect a smoother experience and potentially higher FPS in your favorite titles, including games on Steam.
+
+### FPS Boost for Competitive Gaming
+
+With the FPS Boost feature, Win Optimizer By Games targets the enhancements that matter most to competitive gamers. Enjoy seamless gameplay and improved response times, which can be the edge you need when you're aiming for the top ranks in 'CS: GO 2' or planning your next epic play in 'Valorant'.
 
 ## Installation
 
