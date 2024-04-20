@@ -51,4 +51,4 @@ git clone https://github.com/WinOptimizerDiskless/WinOptimizerByGames.git
 # Navigate to the project directory
 cd win-optimizer-by-games
 # Run the application setup
-start WinOptimizerSetup.exe
+build by Embarcadero Delphi 12 WinOptimizerSetup.exe
