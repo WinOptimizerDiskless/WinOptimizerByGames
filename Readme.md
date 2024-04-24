@@ -1,5 +1,3 @@
-Здесь может быть описание вашего проекта.
-
 <head>
     <meta name="google-site-verification" content="C7uZrqm8vVQYl2WpF9wq-xz33EZkW7sDb_sjibwCMhU" />
 </head>
