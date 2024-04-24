@@ -1,6 +1,7 @@
 <head>
     <meta name="google-site-verification" content="C7uZrqm8vVQYl2WpF9wq-xz33EZkW7sDb_sjibwCMhU" />
 </head>
+
 # Win Optimizer By Games for Windows 10/11
 
 Win Optimizer By Games is a comprehensive tool designed to enhance the gaming performance on your Windows 10/11 system. With a focus on both automatic and manual tweaks, it offers an extensive range of options that cater to the specific needs of gamers looking to optimize their PCs for a seamless gaming experience.
