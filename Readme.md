@@ -56,6 +56,12 @@ Whether you're battling it out in the latest season of 'Valorant', defending the
 
 With the FPS Boost feature, Win Optimizer By Games targets the enhancements that matter most to competitive gamers. Enjoy seamless gameplay and improved response times, which can be the edge you need when you're aiming for the top ranks in 'CS: GO 2' or planning your next epic play in 'Valorant'.
 
+<head>
+    <meta name="google-site-verification" content="yHDEw14WJeSDdhltUMXuyiwYuJFTcyJG-3MTKizd2Os" />
+    <meta name="keywords" content="Win Optimizer, Games, Gaming Performance, Windows 10, Windows 11, System Optimization, Telemetry Control, Privacy Enhancement, Startup Management, FPS Boost">
+
+</head>
+
 ## Installation
 
 ```bash
@@ -65,3 +71,4 @@ git clone https://github.com/WinOptimizerDiskless/WinOptimizerByGames.git
 cd win-optimizer-by-games
 # Run the application setup
 build by Embarcadero Delphi 12 WinOptimizerSetup.exe
+
