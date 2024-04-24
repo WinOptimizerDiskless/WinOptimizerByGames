@@ -1,5 +1,7 @@
 <head>
     <meta name="google-site-verification" content="yHDEw14WJeSDdhltUMXuyiwYuJFTcyJG-3MTKizd2Os" />
+    <meta name="keywords" content="Win Optimizer, Games, Gaming Performance, Windows 10, Windows 11, System Optimization, Telemetry Control, Privacy Enhancement, Startup Management, FPS Boost">
+
 </head>
 
 # Win Optimizer By Games for Windows 10/11
